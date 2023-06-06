@@ -1,1 +1,1 @@
-My first readme
+Am an upcomming senior developer.
